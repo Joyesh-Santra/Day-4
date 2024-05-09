@@ -1,0 +1,24 @@
+/* styles.css */
+
+div {
+    color: white;
+  }
+/* styles.css */
+
+.alert-text {
+    color: red;
+  }
+.Important {
+  color: aqua;
+}  
+#Hero{
+  color: blueviolet;
+}
+.subsection.header {
+  color: red;
+}
+.Joy,
+.Special{
+  color: brown;
+  background-color: aquamarine;
+}

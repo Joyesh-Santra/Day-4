@@ -1,0 +1,42 @@
+## Universal selector
+
+The universal selector will select element of any type 
+
+It is used by * operator
+for eg
+
+*{
+    color: purple;
+}
+
+
+##  Type selector
+
+Type selector will select all the elements of the given element
+for eg
+
+if we want to change the color of the paragraph we can use 
+
+p{
+    color:blue;
+}
+
+## Class selector
+Class selector will select all the element of the given Class
+for eg
+It is used by using . operateor
+<!-- index.html -->
+
+<div class="alert-text">Please agree to our terms of service.</div>
+
+/* styles.css */
+
+.alert-text {
+  color: red;
+}
+'
+## ID selector
+Id selector are similar to class selector but they are unique . 
+We can not repeat same id twice but can  repeat same class 
+It is used by using # operator 
+They are case sensitive
